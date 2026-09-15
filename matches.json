@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-09-15T02:41:10.812608+00:00",
+  "scanned_at": "2026-09-15T02:49:39.310368+00:00",
   "matches": [
     {
       "title": "Senior Site Reliability Engineer (SRE)",
@@ -65,7 +65,5 @@
       "score": 2
     }
   ],
-  "errors": [
-    "Plaid: 404 Client Error: Not Found for url: https://api.lever.co/v0/postings/plaid?mode=json"
-  ]
+  "errors": []
 }
