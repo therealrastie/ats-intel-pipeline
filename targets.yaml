@@ -1,0 +1,57 @@
+# Companies to watch and how to find them on each ATS.
+# board: the company slug on that platform's public API.
+keywords: [devsecops, platform engineer, site reliability, sre, mlops, llmops,
+           aiops, ai delivery, agentic, ml platform, delivery lead,
+           technical program manager, release train]
+exclude: [intern, co-op, staff nurse, pharmacy, retail, cashier, driver, warehouse]
+locations: [remote, houston, austin, dallas, texas]
+min_score: 2
+
+companies:
+  # AI-native (delivery + agentic roles)
+  - name: Anthropic
+    ats: greenhouse
+    board: anthropic
+  - name: OpenAI
+    ats: ashby
+    board: openai
+  - name: Scale AI
+    ats: greenhouse
+    board: scaleai
+
+  # Your prior verified target cluster
+  - name: Airbnb
+    ats: greenhouse
+    board: airbnb
+  - name: PrizePicks
+    ats: greenhouse
+    board: prizepicks
+  - name: Calendly
+    ats: greenhouse
+    board: calendly
+
+  # Regulated: life sciences and healthcare
+  - name: Veeva
+    ats: lever
+    board: veeva
+  - name: Medtronic
+    ats: workday
+    board: medtronic
+    workday_host: medtronic.wd1.myworkdayjobs.com
+    workday_site: MedtronicCareers
+  - name: CVS Health
+    ats: workday
+    board: cvshealth
+    workday_host: cvshealth.wd1.myworkdayjobs.com
+    workday_site: CVS_Health_Careers
+
+  # Fintech and platform infra
+  - name: Plaid
+    ats: lever
+    board: plaid
+  - name: Ramp
+    ats: ashby
+    board: ramp
+  - name: Datadog
+    ats: greenhouse
+    board: datadog

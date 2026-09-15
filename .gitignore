@@ -1,0 +1,4 @@
+master_resume.yaml
+out/
+__pycache__/
+.env

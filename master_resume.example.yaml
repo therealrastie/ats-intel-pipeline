@@ -1,0 +1,29 @@
+# Master resume: the single source of truth. tailor.py may reorder and
+# rephrase this content but is instructed to never invent facts.
+identity:
+  name: Alex Example
+  location: Houston, TX
+  email: alex@example.com
+  linkedin: linkedin.com/in/alexexample
+summary: >
+  Delivery leader with 10+ years across regulated industries.
+certifications: [PMP, SAFe SPC, CSM]
+skills:
+  delivery: [SAFe, release train engineering, PI planning, risk management]
+  technical: [Python, GitHub Actions, Docker, Terraform, Claude API]
+  compliance: [GxP, SOC 2, change control, audit evidence]
+experience:
+  - company: Fortune 100 Life Sciences Co
+    title: Release Train Engineer
+    dates: 2023 - present
+    bullets:
+      - Led an agile release train of N teams delivering the digital platform.
+      - Ran quarterly PI planning for X people across Y time zones.
+  - company: Big Bank
+    title: Senior Delivery Manager
+    dates: 2019 - 2023
+    bullets:
+      - Delivered platform migrations under model-risk and audit constraints.
+education:
+  - school: Example University
+    degree: M.S. Data Analytics
