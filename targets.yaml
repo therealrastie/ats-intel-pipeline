@@ -47,7 +47,7 @@ companies:
 
   # Fintech and platform infra
   - name: Plaid
-    ats: lever
+    ats: ashby
     board: plaid
   - name: Ramp
     ats: ashby
