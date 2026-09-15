@@ -1,0 +1,71 @@
+{
+  "scanned_at": "2026-09-15T02:41:10.812608+00:00",
+  "matches": [
+    {
+      "title": "Senior Site Reliability Engineer (SRE)",
+      "url": "http://prizepicks.com/position?gh_jid=7824303003",
+      "location": "Atlanta, GA preferred, Remote",
+      "company": "PrizePicks",
+      "score": 3
+    },
+    {
+      "title": "IT Systems Engineer, Mobile Client Platform Engineer ",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5396384008",
+      "location": "Boston, MA; Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY; Washington, DC",
+      "company": "Anthropic",
+      "score": 2
+    },
+    {
+      "title": "Staff+ Site Reliability Engineer, Safeguards ML Infra",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5416709008",
+      "location": "Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY",
+      "company": "Anthropic",
+      "score": 2
+    },
+    {
+      "title": "Technical Program Manager, Revenue Operations",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390964008",
+      "location": "Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY",
+      "company": "Anthropic",
+      "score": 2
+    },
+    {
+      "title": "Senior Technical Program Manager - Security",
+      "url": "https://jobs.ashbyhq.com/openai/c414f15f-60c4-40b5-a896-d2ad6c7f4415",
+      "location": "US - Remote",
+      "company": "OpenAI",
+      "score": 2
+    },
+    {
+      "title": "Support Delivery Lead - Toronto",
+      "url": "https://jobs.ashbyhq.com/openai/6b8eed3a-d549-4df8-9ac7-134d4d52c600",
+      "location": "Ontario - Remote",
+      "company": "OpenAI",
+      "score": 2
+    },
+    {
+      "title": "Senior Staff Machine Learning Engineer, Growth Platform Engineering",
+      "url": "https://careers.airbnb.com/positions/7747259?gh_jid=7747259",
+      "location": "Remote - USA",
+      "company": "Airbnb",
+      "score": 2
+    },
+    {
+      "title": "Staff Data Platform Engineer",
+      "url": "http://prizepicks.com/position?gh_jid=7992819003",
+      "location": "Atlanta, GA preferred, Remote",
+      "company": "PrizePicks",
+      "score": 2
+    },
+    {
+      "title": "Staff Platform Engineer",
+      "url": "https://job-boards.greenhouse.io/calendly/jobs/8628979002",
+      "location": "Remote - US",
+      "company": "Calendly",
+      "score": 2
+    }
+  ],
+  "errors": [
+    "Plaid: 404 Client Error: Not Found for url: https://api.lever.co/v0/postings/plaid?mode=json"
+  ]
+}
