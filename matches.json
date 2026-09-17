@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-09-17T11:26:43.045972+00:00",
+  "scanned_at": "2026-09-17T16:45:26.777473+00:00",
   "matches": [
     {
       "title": "Senior Site Reliability Engineer (SRE)",
@@ -62,6 +62,13 @@
       "url": "https://job-boards.greenhouse.io/calendly/jobs/8628979002",
       "location": "Remote - US",
       "company": "Calendly",
+      "score": 2
+    },
+    {
+      "title": "Staff Observability Platform Engineer (SRE)",
+      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/AZ---Scottsdale/Staff-Observability-Platform-Engineer--SRE-_R0897987",
+      "location": "3 Locations",
+      "company": "CVS Health",
       "score": 2
     }
   ],
