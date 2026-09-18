@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-09-18T04:18:16.588981+00:00",
+  "scanned_at": "2026-09-18T10:59:59.528592+00:00",
   "matches": [
     {
       "title": "Senior Site Reliability Engineer (SRE)",
@@ -48,6 +48,13 @@
       "url": "https://careers.airbnb.com/positions/7747259?gh_jid=7747259",
       "location": "Remote - USA",
       "company": "Airbnb",
+      "score": 2
+    },
+    {
+      "title": "Data Platform Engineer ",
+      "url": "http://prizepicks.com/position?gh_jid=7824471003",
+      "location": "Remote",
+      "company": "PrizePicks",
       "score": 2
     },
     {
