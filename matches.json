@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-09-18T16:14:23.949228+00:00",
+  "scanned_at": "2026-09-18T20:45:44.861731+00:00",
   "matches": [
     {
       "title": "Senior Site Reliability Engineer (SRE)",
@@ -54,6 +54,13 @@
       "title": "Data Platform Engineer ",
       "url": "http://prizepicks.com/position?gh_jid=7824471003",
       "location": "Remote",
+      "company": "PrizePicks",
+      "score": 2
+    },
+    {
+      "title": "Machine Learning Platform Engineer",
+      "url": "http://prizepicks.com/position?gh_jid=7824397003",
+      "location": "Atlanta, GA preferred, Remote",
       "company": "PrizePicks",
       "score": 2
     },
