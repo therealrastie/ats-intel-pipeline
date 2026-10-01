@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-10-01T05:25:50.148873+00:00",
+  "scanned_at": "2026-10-01T12:56:41.045187+00:00",
   "matches": [
     {
       "title": "Senior Site Reliability Engineer (SRE)",
@@ -27,13 +27,6 @@
       "url": "https://jobs.ashbyhq.com/openai/6b8eed3a-d549-4df8-9ac7-134d4d52c600",
       "location": "Ontario - Remote",
       "company": "OpenAI",
-      "score": 2
-    },
-    {
-      "title": "Senior Staff Machine Learning Engineer, Growth Platform Engineering",
-      "url": "https://careers.airbnb.com/positions/7747259?gh_jid=7747259",
-      "location": "Remote - USA",
-      "company": "Airbnb",
       "score": 2
     },
     {
@@ -72,5 +65,7 @@
       "score": 2
     }
   ],
-  "errors": []
+  "errors": [
+    "Airbnb: HTTPSConnectionPool(host='boards-api.greenhouse.io', port=443): Read timed out. (read timeout=20)"
+  ]
 }
