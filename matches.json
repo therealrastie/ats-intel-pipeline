@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-10-07T13:06:27.444930+00:00",
+  "scanned_at": "2026-10-07T22:58:28.206682+00:00",
   "matches": [
     {
       "title": "Senior Site Reliability Engineer (SRE)",
@@ -7,6 +7,13 @@
       "location": "Atlanta, GA preferred, Remote",
       "company": "PrizePicks",
       "score": 3
+    },
+    {
+      "title": "IT Systems Engineer, Client Platform Engineer, macOS",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5445625008",
+      "location": "Boston, MA; Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY; Washington, DC",
+      "company": "Anthropic",
+      "score": 2
     },
     {
       "title": "IT Systems Engineer, Mobile Client Platform Engineer ",
