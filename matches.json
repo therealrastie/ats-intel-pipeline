@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-10-21T11:34:48.876882+00:00",
+  "scanned_at": "2026-10-21T17:01:09.185632+00:00",
   "matches": [
     {
       "title": "Senior Site Reliability Engineer (SRE)",
@@ -91,9 +91,14 @@
       "location": "Remote - US",
       "company": "Calendly",
       "score": 2
+    },
+    {
+      "title": "IT Lead Consultant / Service Delivery Lead  - Cloud CRM (Remote)",
+      "url": "https://jobs.lever.co/veeva/d2f4afe4-04bf-4292-bf9d-eed24d113e9f",
+      "location": "Hungary - Budapest",
+      "company": "Veeva",
+      "score": 2
     }
   ],
-  "errors": [
-    "Veeva: HTTPSConnectionPool(host='api.lever.co', port=443): Read timed out. (read timeout=20)"
-  ]
+  "errors": []
 }
