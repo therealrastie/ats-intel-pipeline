@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-10-30T12:37:02.166725+00:00",
+  "scanned_at": "2026-10-30T22:10:16.422137+00:00",
   "matches": [
     {
       "title": "IT Systems Engineer, Client Platform Engineer, ChromeOS",
@@ -51,10 +51,17 @@
       "score": 2
     },
     {
-      "title": "Senior Staff Machine Learning Engineer, Growth Platform Engineering",
-      "url": "https://careers.airbnb.com/positions/7747259?gh_jid=7747259",
-      "location": "Remote - USA",
-      "company": "Airbnb",
+      "title": "Applied AI Delivery Lead - Mountain View",
+      "url": "https://jobs.ashbyhq.com/openai/18b4427e-b168-475e-a1e2-92a86c73f0f0",
+      "location": "San Francisco",
+      "company": "OpenAI",
+      "score": 2
+    },
+    {
+      "title": "Applied AI Delivery Lead - London",
+      "url": "https://jobs.ashbyhq.com/openai/ec0aa7c7-8995-4e01-9939-594a94549f85",
+      "location": "London, UK",
+      "company": "OpenAI",
       "score": 2
     },
     {
