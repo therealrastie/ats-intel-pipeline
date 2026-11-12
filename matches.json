@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-11-12T14:58:49.656368+00:00",
+  "scanned_at": "2026-11-12T23:27:24.989081+00:00",
   "matches": [
     {
       "title": "Applied AI Delivery Lead - Remote in AMER",
@@ -105,9 +105,14 @@
       "location": "Remote - US",
       "company": "Calendly",
       "score": 2
+    },
+    {
+      "title": "IT Lead Consultant / Service Delivery Lead  - Cloud CRM (Remote)",
+      "url": "https://jobs.lever.co/veeva/d2f4afe4-04bf-4292-bf9d-eed24d113e9f",
+      "location": "Hungary - Budapest",
+      "company": "Veeva",
+      "score": 2
     }
   ],
-  "errors": [
-    "Veeva: HTTPSConnectionPool(host='api.lever.co', port=443): Read timed out. (read timeout=20)"
-  ]
+  "errors": []
 }
