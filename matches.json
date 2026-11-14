@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-11-14T05:55:45.516775+00:00",
+  "scanned_at": "2026-11-14T13:22:09.525045+00:00",
   "matches": [
     {
       "title": "Applied AI Delivery Lead - Remote in AMER",
@@ -115,7 +115,7 @@
     }
   ],
   "errors": [
-    "Medtronic: 521 Server Error: <none> for url: https://medtronic.wd1.myworkdayjobs.com/wday/cxs/medtronic/MedtronicCareers/jobs",
-    "CVS Health: 521 Server Error: <none> for url: https://cvshealth.wd1.myworkdayjobs.com/wday/cxs/cvshealth/CVS_Health_Careers/jobs"
+    "Medtronic: Expecting value: line 1 column 1 (char 0)",
+    "CVS Health: Expecting value: line 1 column 1 (char 0)"
   ]
 }
