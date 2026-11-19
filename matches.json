@@ -1,11 +1,18 @@
 {
-  "scanned_at": "2026-11-18T15:28:35.864969+00:00",
+  "scanned_at": "2026-11-19T00:09:25.898215+00:00",
   "matches": [
     {
-      "title": "Applied AI Delivery Lead - Remote in AMER",
+      "title": "Applied AI Delivery Lead",
       "url": "https://jobs.ashbyhq.com/openai/2c531790-726c-4d39-b3bd-900c59a09a4d",
       "location": "US - Remote",
       "company": "OpenAI",
+      "score": 3
+    },
+    {
+      "title": "Senior Site Reliability Engineer (SRE)",
+      "url": "http://prizepicks.com/position?gh_jid=8208519003",
+      "location": "Atlanta, GA preferred, Remote",
+      "company": "PrizePicks",
       "score": 3
     },
     {
@@ -112,9 +119,17 @@
       "location": "Hungary - Budapest",
       "company": "Veeva",
       "score": 2
+    },
+    {
+      "title": "Research Engineer, Agentic Systems",
+      "url": "https://jobs.ashbyhq.com/ramp/f90d32c1-7c10-4161-8913-075e1b423697",
+      "location": "Remote (US)",
+      "company": "Ramp",
+      "score": 2
     }
   ],
   "errors": [
+    "Medtronic: 429 Client Error: Too Many Requests for url: https://medtronic.wd1.myworkdayjobs.com/wday/cxs/medtronic/MedtronicCareers/jobs",
     "CVS Health: 429 Client Error: Too Many Requests for url: https://cvshealth.wd1.myworkdayjobs.com/wday/cxs/cvshealth/CVS_Health_Careers/jobs"
   ]
 }
