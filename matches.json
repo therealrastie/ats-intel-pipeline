@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-11-23T23:42:44.661911+00:00",
+  "scanned_at": "2026-11-24T09:31:10.475222+00:00",
   "matches": [
     {
       "title": "Applied AI Delivery Lead",
@@ -122,6 +122,7 @@
     }
   ],
   "errors": [
+    "Medtronic: 429 Client Error: Too Many Requests for url: https://medtronic.wd1.myworkdayjobs.com/wday/cxs/medtronic/MedtronicCareers/jobs",
     "CVS Health: 429 Client Error: Too Many Requests for url: https://cvshealth.wd1.myworkdayjobs.com/wday/cxs/cvshealth/CVS_Health_Careers/jobs"
   ]
 }
