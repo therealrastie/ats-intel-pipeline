@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-11-24T22:14:29.022069+00:00",
+  "scanned_at": "2026-11-25T08:02:08.397231+00:00",
   "matches": [
     {
       "title": "Applied AI Delivery Lead",
@@ -107,13 +107,6 @@
       "score": 2
     },
     {
-      "title": "IT Lead Consultant / Service Delivery Lead  - Cloud CRM (Remote)",
-      "url": "https://jobs.lever.co/veeva/d2f4afe4-04bf-4292-bf9d-eed24d113e9f",
-      "location": "Hungary - Budapest",
-      "company": "Veeva",
-      "score": 2
-    },
-    {
       "title": "Research Engineer, Agentic Systems",
       "url": "https://jobs.ashbyhq.com/ramp/f90d32c1-7c10-4161-8913-075e1b423697",
       "location": "Remote (US)",
@@ -122,6 +115,7 @@
     }
   ],
   "errors": [
+    "Veeva: HTTPSConnectionPool(host='api.lever.co', port=443): Read timed out. (read timeout=20)",
     "Medtronic: 429 Client Error: Too Many Requests for url: https://medtronic.wd1.myworkdayjobs.com/wday/cxs/medtronic/MedtronicCareers/jobs",
     "CVS Health: 429 Client Error: Too Many Requests for url: https://cvshealth.wd1.myworkdayjobs.com/wday/cxs/cvshealth/CVS_Health_Careers/jobs"
   ]
